@@ -1,6 +1,6 @@
 <?php
 
-namespace Orhanerday\OpenAi;
+namespace Abognon\OpenAi;
 
 class Url
 {
